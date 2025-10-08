@@ -1,0 +1,4 @@
+Flask
+scikit-learn
+PyMuPDF
+python-docx
